@@ -38,7 +38,7 @@ const dateFormat = require('dateformat');
 
 
 
-const prefix = '-'
+const prefix = -
 
 
 client.on('message',async message => {
